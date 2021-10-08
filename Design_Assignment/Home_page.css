@@ -1,0 +1,23 @@
+.tab, 
+td, th {  
+
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
+
+tr th{
+     background-color: rgb(185, 192, 192);
+}
+
+.product{
+    text-align: center;
+}
+
